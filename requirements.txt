@@ -2,3 +2,8 @@ fastapi
 uvicorn
 dependency-injector
 mysqlclient
+jira
+pydantic
+PyYAML
+langchain
+langchain-openai
